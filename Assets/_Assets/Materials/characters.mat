@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Color
+  m_Name: characters
   m_Shader: {fileID: 4800000, guid: 2c29c87087e3b21478a9c46bb829d9a9, type: 3}
   m_ShaderKeywords: AMBIENT_ON BASE_UNLIT CUSTOMLIGHTMAP_OFF CUSTOMSHADOW_OFF LDIR_ON
     ORTHO_ON OUTLINE_BASIC maskTex_OFF mathPixel_OFF
