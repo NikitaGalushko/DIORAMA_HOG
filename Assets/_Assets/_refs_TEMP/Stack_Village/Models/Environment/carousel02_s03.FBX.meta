@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 9b7217a001c01634d93c813041fd62d9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: carousel02_p01_s003
+    100002: carousel02_p02_s003
+    100004: carousel02_p03_s003
+    100006: carousel02_p04_s003
+    100008: carousel02_p05_s003
+    100010: carousel02_p06_s003
+    100012: carousel02_p07_s003
+    100014: carousel02_p08_s003
+    100016: carousel02_p09_s003
+    100018: carousel02_p10_s003
+    100020: carousel02_p11_s003
+    100022: carousel02_p12_s003
+    100024: //RootNode
+    400000: carousel02_p01_s003
+    400002: carousel02_p02_s003
+    400004: carousel02_p03_s003
+    400006: carousel02_p04_s003
+    400008: carousel02_p05_s003
+    400010: carousel02_p06_s003
+    400012: carousel02_p07_s003
+    400014: carousel02_p08_s003
+    400016: carousel02_p09_s003
+    400018: carousel02_p10_s003
+    400020: carousel02_p11_s003
+    400022: carousel02_p12_s003
+    400024: //RootNode
+    2100000: color_tex
+    2300000: carousel02_p01_s003
+    2300002: carousel02_p02_s003
+    2300004: carousel02_p03_s003
+    2300006: carousel02_p04_s003
+    2300008: carousel02_p05_s003
+    2300010: carousel02_p06_s003
+    2300012: carousel02_p07_s003
+    2300014: carousel02_p08_s003
+    2300016: carousel02_p09_s003
+    2300018: carousel02_p10_s003
+    2300020: carousel02_p11_s003
+    2300022: carousel02_p12_s003
+    2300024: //RootNode
+    3300000: carousel02_p01_s003
+    3300002: carousel02_p02_s003
+    3300004: carousel02_p03_s003
+    3300006: carousel02_p04_s003
+    3300008: carousel02_p05_s003
+    3300010: carousel02_p06_s003
+    3300012: carousel02_p07_s003
+    3300014: carousel02_p08_s003
+    3300016: carousel02_p09_s003
+    3300018: carousel02_p10_s003
+    3300020: carousel02_p11_s003
+    3300022: carousel02_p12_s003
+    3300024: //RootNode
+    4300000: carousel02_s03
+    4300002: carousel02_p01_s003
+    4300004: carousel02_p02_s003
+    4300006: carousel02_p03_s003
+    4300008: carousel02_p04_s003
+    4300010: carousel02_p05_s003
+    4300012: carousel02_p06_s003
+    4300014: carousel02_p07_s003
+    4300016: carousel02_p08_s003
+    4300018: carousel02_p09_s003
+    4300020: carousel02_p10_s003
+    4300022: carousel02_p11_s003
+    4300024: carousel02_p12_s003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_tex
+    second: {fileID: 2100000, guid: 5363e80666571e6459b4c62bc89abde1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
