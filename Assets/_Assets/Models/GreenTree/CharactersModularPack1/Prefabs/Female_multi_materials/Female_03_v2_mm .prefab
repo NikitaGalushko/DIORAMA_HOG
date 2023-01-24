@@ -1180,7 +1180,7 @@ SkinnedMeshRenderer:
   - {fileID: 2100000, guid: 3440b5bdc0288154db22b5cdc907e000, type: 2}
   - {fileID: 2100000, guid: 72d3361b9efd3cc47a5406aec056c3e7, type: 2}
   - {fileID: 2100000, guid: 72d3361b9efd3cc47a5406aec056c3e7, type: 2}
-  - {fileID: 2100000, guid: 702e8033aa478ab47a18153471d3110c, type: 2}
+  - {fileID: 2100000, guid: d74359f604b165249a1a80b56cd32b59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1423,6 +1423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5301659345386152821}
   - component: {fileID: 2266273515590318351}
+  - component: {fileID: 2124529648603554696}
   m_Layer: 0
   m_Name: 'Female_03_v2_mm '
   m_TagString: Untagged
@@ -1489,6 +1490,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &2124529648603554696
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4816766623563086287}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &4830900289078013696
 GameObject:
   m_ObjectHideFlags: 0

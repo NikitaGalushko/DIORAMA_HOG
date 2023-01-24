@@ -1303,6 +1303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3552359047002804803}
   - component: {fileID: 7470538776973051961}
+  - component: {fileID: 6997264514431118238}
   m_Layer: 0
   m_Name: Female_02_v4_mm
   m_TagString: Untagged
@@ -1369,6 +1370,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &6997264514431118238
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4181402141540157689}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &4248402309741514875
 GameObject:
   m_ObjectHideFlags: 0
@@ -2253,7 +2268,7 @@ SkinnedMeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: 1889c52b09215e148946893b9974d0ad, type: 2}
   - {fileID: 2100000, guid: b100c127104dccc4897ec6aca558224c, type: 2}
-  - {fileID: 2100000, guid: 702e8033aa478ab47a18153471d3110c, type: 2}
+  - {fileID: 2100000, guid: d74359f604b165249a1a80b56cd32b59, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

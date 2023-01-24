@@ -825,6 +825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6081054086644758491}
   - component: {fileID: 6081054086634987056}
+  - component: {fileID: 563821100870779953}
   m_Layer: 0
   m_Name: Male_06_v3_mm
   m_TagString: Untagged
@@ -883,14 +884,28 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: e2f1050490852ec4e9ff069123a24e92, type: 3}
   m_Controller: {fileID: 9100000, guid: a0ceb0b6923f62447af7bf91227b7c19, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &563821100870779953
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6081054086634987057}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &6081054086683447736
 GameObject:
   m_ObjectHideFlags: 0
@@ -1878,8 +1893,8 @@ SkinnedMeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: 7e810f3823cac0d489f27c7c3b7d98c9, type: 2}
   - {fileID: 2100000, guid: 7575ca7b333366e48983ddf3851a2910, type: 2}
-  - {fileID: 2100000, guid: 702e8033aa478ab47a18153471d3110c, type: 2}
-  - {fileID: 2100000, guid: 702e8033aa478ab47a18153471d3110c, type: 2}
+  - {fileID: 2100000, guid: c75fbab3dd83f8c48bd874e396cdb804, type: 2}
+  - {fileID: 2100000, guid: c75fbab3dd83f8c48bd874e396cdb804, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

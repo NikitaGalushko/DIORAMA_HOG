@@ -7457,6 +7457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7454595015490840865}
   - component: {fileID: 3572522731981730651}
+  - component: {fileID: 2459128497421505001}
   m_Layer: 0
   m_Name: Female_03_v3_sf
   m_TagString: Untagged
@@ -7586,6 +7587,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &2459128497421505001
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7800192804168856475}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &7840153924170574617
 GameObject:
   m_ObjectHideFlags: 0

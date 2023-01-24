@@ -165,6 +165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1082891731558419165}
   - component: {fileID: 6478173657368793255}
+  - component: {fileID: 2926882859602640113}
   m_Layer: 0
   m_Name: Female_08_mm
   m_TagString: Untagged
@@ -231,6 +232,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &2926882859602640113
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309874152067502183}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &341970750675585253
 GameObject:
   m_ObjectHideFlags: 0
@@ -2566,9 +2581,9 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8cb1ba287106f2c44a2af1c15f86b93c, type: 2}
-  - {fileID: 2100000, guid: 69845c565861e3d44a5069a6896cfc8c, type: 2}
-  - {fileID: 2100000, guid: 8cb1ba287106f2c44a2af1c15f86b93c, type: 2}
+  - {fileID: 2100000, guid: 0bd8d448a22667248b3a9fc37824daa5, type: 2}
+  - {fileID: 2100000, guid: 645d00ec4c04e154c8dd89c37ec0825a, type: 2}
+  - {fileID: 2100000, guid: 0bd8d448a22667248b3a9fc37824daa5, type: 2}
   - {fileID: 2100000, guid: 07d469fc1063b43428a571867c1fe430, type: 2}
   - {fileID: 2100000, guid: f47d79fcf54c0774da3ea80d973577fe, type: 2}
   m_StaticBatchInfo:

@@ -1065,8 +1065,8 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8349d5805cd230943900101534531024, type: 2}
-  - {fileID: 2100000, guid: 8349d5805cd230943900101534531024, type: 2}
+  - {fileID: 2100000, guid: 7575ca7b333366e48983ddf3851a2910, type: 2}
+  - {fileID: 2100000, guid: 7575ca7b333366e48983ddf3851a2910, type: 2}
   - {fileID: 2100000, guid: d74359f604b165249a1a80b56cd32b59, type: 2}
   - {fileID: 2100000, guid: f47d79fcf54c0774da3ea80d973577fe, type: 2}
   m_StaticBatchInfo:
@@ -1432,6 +1432,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3669872788371725452}
   - component: {fileID: 7209749600020268790}
+  - component: {fileID: 4664751861915394680}
   m_Layer: 0
   m_Name: Female_10_mm
   m_TagString: Untagged
@@ -1498,6 +1499,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!136 &4664751861915394680
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4153956544300746294}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.4
+  m_Height: 2
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.9, z: 0}
 --- !u!1 &4196008795583366802
 GameObject:
   m_ObjectHideFlags: 0
