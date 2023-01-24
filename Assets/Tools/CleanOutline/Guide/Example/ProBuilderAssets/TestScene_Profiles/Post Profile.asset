@@ -17,7 +17,7 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   debugMode:
-    overrideState: 1
+    overrideState: 0
     value: 0
   outlineColor:
     overrideState: 1
@@ -27,7 +27,7 @@ MonoBehaviour:
     value: 0.5
   enableClosenessBoost:
     overrideState: 1
-    value: 0
+    value: 1
   closenessBoostThickness:
     overrideState: 0
     value: 1
@@ -41,25 +41,25 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   distanceFadeNear:
-    overrideState: 1
+    overrideState: 0
     value: 0.2
   distanceFadeFar:
-    overrideState: 1
+    overrideState: 0
     value: 0.6
   depthSampleType:
-    overrideState: 1
+    overrideState: 0
     value: 0
   depthThickness:
-    overrideState: 1
+    overrideState: 0
     value: 1
   depthMultiplier:
-    overrideState: 1
+    overrideState: 0
     value: 2.28
   depthBias:
-    overrideState: 1
+    overrideState: 0
     value: 1
   depthThreshold:
-    overrideState: 1
+    overrideState: 0
     value: 0
   depth9TilesThreshold:
     overrideState: 0
@@ -78,13 +78,13 @@ MonoBehaviour:
     value: 0
   normalMultiplier:
     overrideState: 1
-    value: 0.81
+    value: 0.28
   normalBias:
     overrideState: 1
-    value: 1
+    value: 1.5
   normalThreshold:
-    overrideState: 1
-    value: 0.797
+    overrideState: 0
+    value: 1
   enableNormalOutline:
     overrideState: 1
     value: 1
