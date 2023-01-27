@@ -128,7 +128,7 @@ Material:
     - _CUSTOMLIGHTMAP: 0
     - _CUSTOMSHADOW: 0
     - _CubeBias: 0
-    - _CubeFresnel: 0.11580467
+    - _CubeFresnel: 0.08625276
     - _CubeIntensity: 1
     - _CubeOpacity: 1
     - _Cutoff: 0.5

@@ -122,7 +122,7 @@ Material:
     - _maskTex: 0
     - _mathPixel: 0
     m_Colors:
-    - _Color: {r: 0.4901961, g: 0.32941177, b: 0.56078434, a: 0.2951184}
+    - _Color: {r: 0.4901961, g: 0.32941177, b: 0.56078434, a: 0}
     - _ColorBase: {r: 0.06666667, g: 0.8941177, b: 0.21176472, a: 0.02070828}
     - _DecalColor: {r: 0.90196085, g: 1, b: 0, a: 1}
     - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}

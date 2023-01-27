@@ -99,7 +99,7 @@ Material:
     - _Parallax: 0.02
     - _REFCUSTOM: 0
     - _RimFresnel: 5
-    - _RimIntensity: 0.23160934
+    - _RimIntensity: 0.17250551
     - _SrcBlend: 1
     - _Transparency: 1
     - _TransparencyFresnel: 0

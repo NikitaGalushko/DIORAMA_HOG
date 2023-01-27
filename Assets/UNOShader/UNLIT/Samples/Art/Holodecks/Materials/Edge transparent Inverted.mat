@@ -115,7 +115,7 @@ Material:
     - _RefBias: 1
     - _SrcBlend: 1
     - _Transparency: 1
-    - _TransparencyFresnel: 0.11580467
+    - _TransparencyFresnel: 0.08625276
     - _UVSec: 0
     - _XRAYEDGE: 0
     - _ZWrite: 1

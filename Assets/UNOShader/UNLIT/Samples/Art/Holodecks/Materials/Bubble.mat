@@ -89,7 +89,7 @@ Material:
     - _RefBias: 0.72877836
     - _RefLum: 9.751499
     - _RimBias: 0.89041096
-    - _RimFresnel: 0.4088564
+    - _RimFresnel: 0.3810776
     - _RimIntensity: 1
     - _Transparency: 1
     - _TransparencyFresnel: 0
