@@ -3,7 +3,12 @@ guid: c9b67fda170ac47448248d572af5ddad
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gray_simple
+    second: {fileID: 2100000, guid: d590bbd2c5cf9dd418588b28b9bed6ba, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -73,7 +78,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
