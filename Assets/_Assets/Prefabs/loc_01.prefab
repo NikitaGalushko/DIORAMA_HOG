@@ -14080,6 +14080,32 @@ Transform:
   m_Father: {fileID: 1346850479407286429}
   m_RootOrder: 201
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: -40.54}
+--- !u!114 &2114243114235351446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7365633347892181903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a57e0e363027e48458f117bb7d1b39ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  materialsList:
+  - matName: fountain_water
+    usingShader: 
+    shaderVisible: 1
+    animate:
+    - propertyName: _MainTex
+      AnimateUV: 1
+      instantiate: 1
+      ScrollSpeed: {x: 0, y: 0.5}
+      UVOffset: {x: 0.2, y: 0}
+      RotateSpeed: 100
+      UVRotate: 0
+      RotatePivot: {x: 0.5, y: 0.5}
+      matrix: _MainTexMatrix
 --- !u!1 &7378560311510031845
 GameObject:
   m_ObjectHideFlags: 0
@@ -14784,6 +14810,33 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4378790292135437948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7846395308226918579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a57e0e363027e48458f117bb7d1b39ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  materialsList:
+  - matName: fountain_water
+    usingShader: 'UNOShader/_Library/UNLIT/UNOShaderUNLIT Transparent Diffuse Outline
+      SH '
+    shaderVisible: 1
+    animate:
+    - propertyName: _MainTex
+      AnimateUV: 1
+      instantiate: 1
+      ScrollSpeed: {x: 0, y: 0.5}
+      UVOffset: {x: 0.2, y: 0}
+      RotateSpeed: 100
+      UVRotate: 0
+      RotatePivot: {x: 0.5, y: 0.5}
+      matrix: _MainTexMatrix
 --- !u!1 &7972984651233535549
 GameObject:
   m_ObjectHideFlags: 0
@@ -21638,6 +21691,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: -1950605928355773925, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f262742c0bf3b6d4a86ff426076ee7aa, type: 2}
     - target: {fileID: -1937915342194315249, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -23582,6 +23639,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 4643260254421012454, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f262742c0bf3b6d4a86ff426076ee7aa, type: 2}
     - target: {fileID: 4672089751901625635, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -25008,6 +25069,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
+--- !u!1 &7365633347892181903 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -932882168672299783, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
+  m_PrefabInstance: {fileID: 1529605518759276406}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7846395308226918579 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8780258854361864133, guid: e6116b463bb5516469a55dc2fb01c537, type: 3}
