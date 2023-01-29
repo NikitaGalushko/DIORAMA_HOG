@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7495175986116208235
+--- !u!1 &5473113083415754082
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,45 +8,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7156191726318582993}
-  - component: {fileID: 6115956330441339764}
-  - component: {fileID: 8287972041799305150}
+  - component: {fileID: 4665650008756432856}
+  - component: {fileID: 8579476466292924541}
+  - component: {fileID: 5833458022951048375}
   m_Layer: 0
-  m_Name: jerrycan_01
+  m_Name: box_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7156191726318582993
+--- !u!4 &4665650008756432856
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7495175986116208235}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 5473113083415754082}
+  m_LocalRotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &6115956330441339764
+--- !u!33 &8579476466292924541
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7495175986116208235}
-  m_Mesh: {fileID: 4010295446190725162, guid: cb00c3844f9a7c649a575ec2060bc1b6, type: 3}
---- !u!23 &8287972041799305150
+  m_GameObject: {fileID: 5473113083415754082}
+  m_Mesh: {fileID: -8413522531252399773, guid: 3b891802f2fcd804c87d161c296f4b65, type: 3}
+--- !u!23 &5833458022951048375
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7495175986116208235}
+  m_GameObject: {fileID: 5473113083415754082}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
