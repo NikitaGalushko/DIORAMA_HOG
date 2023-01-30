@@ -117,7 +117,7 @@ Material:
     - _OUTLINE: 0
     - _OcclusionStrength: 1
     - _Outline: 0.05
-    - _OutlineEmission: 1.155255
+    - _OutlineEmission: 8.559424
     - _OutlineIntensity: 6.11
     - _OutlineX: 0.01
     - _OutlineY: 0.01

@@ -122,11 +122,11 @@ Material:
     - _maskTex: 0
     - _mathPixel: 0
     m_Colors:
-    - _Color: {r: 0.4901961, g: 0.32941177, b: 0.56078434, a: 0}
+    - _Color: {r: 0.4901961, g: 0.3264203, b: 0.56078434, a: 0}
     - _ColorBase: {r: 0.06666667, g: 0.8941177, b: 0.21176472, a: 0.02070828}
-    - _DecalColor: {r: 0.90196085, g: 1, b: 0, a: 1}
+    - _DecalColor: {r: 0.90196085, g: 1, b: 0, a: 0.23717909}
     - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0.43921572, g: 0.74509805, b: 0.49803925, a: 1}
+    - _EmissionColor: {r: 0.43921572, g: 0.74509805, b: 0.49803925, a: 0}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
     - _GlowColor: {r: 1, g: 0.7, b: 0.3, a: 0}
   m_BuildTextureStacks: []
