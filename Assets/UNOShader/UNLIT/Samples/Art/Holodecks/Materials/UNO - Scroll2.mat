@@ -84,13 +84,18 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AMBIENT: 0
+    - _BASE: 0
     - _BRDFBrightness: 0
     - _BumpScale: 1
+    - _CUSTOMLIGHTMAP: 0
+    - _CUSTOMSHADOW: 0
     - _CubeBias: 1
     - _CubeOpacity: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _EDGETRANSPARENCY: 0
     - _EdgeBias: 0
     - _EdgeFresnel: 0
     - _EmissionBakeIntensity: 2
@@ -99,18 +104,24 @@ Material:
     - _EmissionScaleUI: 0
     - _Glossiness: 0.5
     - _GlowV: 1
+    - _LDIR: 0
     - _MainTexOpacity: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _REFCUSTOM: 0
     - _RefAmount: 1
     - _RefBias: 1
     - _SrcBlend: 1
     - _Transparency: 1
     - _TransparencyFresnel: 0
     - _UVSec: 0
+    - _XRAYEDGE: 0
     - _ZWrite: 1
+    - _lmUV1: 0
+    - _maskTex: 0
+    - _mathPixel: 0
     m_Colors:
     - _Color: {r: 0.094448574, g: 0.14376947, b: 0.28442985, a: 0}
     - _ColorBase: {r: 1, g: 1, b: 1, a: 1}
