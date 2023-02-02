@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7625693751281338791}
   - component: {fileID: 6808373383756334594}
   - component: {fileID: 8761969458841760456}
+  - component: {fileID: -5785593470019711627}
   m_Layer: 0
   m_Name: platemenu_01
   m_TagString: Untagged
@@ -81,3 +82,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &-5785593470019711627
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7104490796337468189}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.80793834, y: 1.0484016, z: 0.7157055}
+  m_Center: {x: -0.00000020861626, y: 0.5143347, z: 0.0000014454126}
