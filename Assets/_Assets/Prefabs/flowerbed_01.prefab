@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8494351495918985522
 Transform:
@@ -116,6 +116,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: plant_pot_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf38af3776b50104ea82469787378e87, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf38af3776b50104ea82469787378e87, type: 3}
 --- !u!4 &836015355035518142 stripped
@@ -189,6 +193,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: bf38af3776b50104ea82469787378e87, type: 3}
       propertyPath: m_Name
       value: plant_pot_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf38af3776b50104ea82469787378e87, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf38af3776b50104ea82469787378e87, type: 3}
@@ -264,6 +272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: plant_pot_03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf38af3776b50104ea82469787378e87, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf38af3776b50104ea82469787378e87, type: 3}
 --- !u!4 &1326932843683229497 stripped
@@ -338,6 +350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: plant_pot_03
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bf38af3776b50104ea82469787378e87, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf38af3776b50104ea82469787378e87, type: 3}
 --- !u!4 &4195831279565751229 stripped
@@ -399,6 +415,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 93ebabadac8427249a2e9b190a5e1b96, type: 3}
       propertyPath: m_Name
       value: flowerbed_v1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93ebabadac8427249a2e9b190a5e1b96, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93ebabadac8427249a2e9b190a5e1b96, type: 3}
